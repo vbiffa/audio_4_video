@@ -1,0 +1,5 @@
+1. Upload the video file
+2. Video -> audio
+3. audio -> text
+4. text -> small text
+5. print(small text)
